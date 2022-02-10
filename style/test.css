@@ -1,0 +1,14 @@
+
+
+
+body {
+    background: blue;
+}
+
+body > p {
+    background: red;
+}
+
+p > p {
+    background: green;
+}
